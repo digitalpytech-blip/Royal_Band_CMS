@@ -1,0 +1,473 @@
+{
+  "global": {
+    "brandName": "THE ROYAL BAND",
+    "tagline": "Live Music. Grand Entrances. Unforgettable Celebrations.",
+    "logoText": "ROYAL",
+    "phone": "+91 98765 43210",
+    "email": "hello@theroyalband.in",
+    "whatsapp": "+919876543210",
+    "address": "New Delhi, India",
+    "instagram": "https://instagram.com/",
+    "youtube": "https://youtube.com/",
+    "facebook": "https://facebook.com/",
+    "primaryCta": "Book Your Event",
+    "footerBlurb": "A premium live band experience for weddings, corporate events, private celebrations and grand processions.",
+    "copyright": "© 2026 The Royal Band. All rights reserved."
+  },
+  "pages": [
+    {
+      "id": "home",
+      "name": "Home",
+      "slug": "/",
+      "status": "published",
+      "hero": {
+        "eyebrow": "Premium Wedding & Event Band",
+        "title": "Make Your Celebration Sound Royal",
+        "subtitle": "High-energy brass, live percussion and luxury presentation for weddings, baraat, corporate events and private celebrations.",
+        "image": "/assets/hero-royal.svg",
+        "primaryCta": "Check Availability",
+        "secondaryCta": "Explore Performances"
+      },
+      "seo": {
+        "title": "The Royal Band | Premium Wedding & Event Band",
+        "description": "Book The Royal Band for premium weddings, baraat, corporate events and private celebrations. Live brass, percussion and luxury presentation.",
+        "keywords": "royal band, wedding band, baraat band, live event band, brass band india, wedding entertainment",
+        "canonical": "/",
+        "robotsIndex": true,
+        "robotsFollow": true,
+        "ogTitle": "The Royal Band | Make Your Celebration Sound Royal",
+        "ogDescription": "Premium live band experiences for weddings and events.",
+        "ogImage": "/assets/hero-royal.svg",
+        "schemaType": "EntertainmentBusiness",
+        "customSchema": ""
+      },
+      "geo": {
+        "summary": "The Royal Band provides premium live wedding and event band performances with brass, percussion and coordinated presentation.",
+        "entities": "The Royal Band, Wedding Band, Baraat Band, Live Music, Event Entertainment",
+        "serviceAreas": "Delhi NCR, Gurugram, Noida, Jaipur, Chandigarh, Destination Weddings",
+        "targetQuestions": "Who is the best premium wedding band near me?\nCan I book a luxury baraat band for a destination wedding?\nDoes The Royal Band perform at corporate events?",
+        "llmsSummary": "The Royal Band is a premium live event band for weddings, baraat, corporate events and private celebrations in India."
+      },
+      "sections": [
+        {
+          "id": "intro",
+          "type": "split",
+          "eyebrow": "THE ROYAL EXPERIENCE",
+          "heading": "More Than Music. A Full Celebration Experience.",
+          "body": "From the first beat of the dhol to the final brass note, every performance is designed to feel grand, energetic and camera-ready. Our coordinated uniforms, live arrangements and crowd interaction turn an entrance into a memory.",
+          "image": "/assets/band-stage.svg",
+          "items": [
+            "Live brass & percussion",
+            "Wedding and baraat entries",
+            "Corporate & private events",
+            "Destination event support"
+          ]
+        },
+        {
+          "id": "services",
+          "type": "cards",
+          "eyebrow": "OUR SIGNATURE SERVICES",
+          "heading": "Built for Every Grand Occasion",
+          "body": "Choose a format that matches your celebration, venue and energy.",
+          "items": [
+            "Royal Wedding Band|Elegant live brass and percussion for wedding entries, varmala moments and celebrations.",
+            "Baraat Experience|High-energy procession performance with synchronized musicians and crowd interaction.",
+            "Corporate Events|Polished live entertainment for launches, award nights, conferences and brand celebrations.",
+            "Private Celebrations|Curated band setups for birthdays, anniversaries, family events and premium parties."
+          ]
+        },
+        {
+          "id": "numbers",
+          "type": "stats",
+          "heading": "Trusted for Grand Celebrations",
+          "items": [
+            "500+|Events Performed",
+            "50+|Cities Covered",
+            "12+|Years of Experience",
+            "4.9/5|Client Rating"
+          ]
+        },
+        {
+          "id": "gallery",
+          "type": "gallery",
+          "eyebrow": "LIVE MOMENTS",
+          "heading": "The Energy Looks As Good As It Sounds",
+          "items": [
+            "/assets/gallery-1.svg",
+            "/assets/gallery-2.svg",
+            "/assets/gallery-3.svg",
+            "/assets/gallery-4.svg",
+            "/assets/gallery-5.svg",
+            "/assets/gallery-6.svg"
+          ]
+        },
+        {
+          "id": "testimonials",
+          "type": "testimonials",
+          "eyebrow": "CLIENT LOVE",
+          "heading": "What Our Clients Remember",
+          "items": [
+            "Aarav & Meera|The energy was incredible. Our baraat looked and felt exactly as premium as we wanted.",
+            "Ritika Sharma|Very professional team, excellent coordination and a fantastic live performance.",
+            "Kunal Events|They understand timing, presentation and crowd energy. Reliable for premium events."
+          ]
+        },
+        {
+          "id": "faq",
+          "type": "faq",
+          "eyebrow": "QUICK ANSWERS",
+          "heading": "Frequently Asked Questions",
+          "items": [
+            "How early should we book?|For popular wedding dates, 4–8 weeks in advance is recommended.",
+            "Do you travel for destination weddings?|Yes. We can perform outside Delhi NCR and coordinate travel based on the event location.",
+            "Can the band customize songs or entry cues?|Yes. We can coordinate key moments and preferred tracks before the event.",
+            "Do you perform at corporate events?|Yes. We offer polished formats for launches, conferences, award nights and brand celebrations."
+          ]
+        },
+        {
+          "id": "cta",
+          "type": "cta",
+          "heading": "Your Grand Entry Starts Here",
+          "body": "Share your date, venue and event type. We’ll recommend the right performance setup.",
+          "items": [
+            "Check Availability",
+            "WhatsApp Us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "name": "About",
+      "slug": "/about",
+      "status": "published",
+      "hero": {
+        "eyebrow": "OUR STORY",
+        "title": "A Band Built for Grand Moments",
+        "subtitle": "Music, presentation and precision—crafted into one premium event experience.",
+        "image": "/assets/about-hero.svg",
+        "primaryCta": "Meet the Experience",
+        "secondaryCta": "Book a Date"
+      },
+      "seo": {
+        "title": "About The Royal Band | Premium Live Event Entertainment",
+        "description": "Learn about The Royal Band, our live musicians, premium presentation and event experience for weddings and celebrations.",
+        "keywords": "about royal band, wedding musicians, live band team",
+        "canonical": "/about",
+        "robotsIndex": true,
+        "robotsFollow": true,
+        "ogTitle": "About The Royal Band",
+        "ogDescription": "A premium event band built for grand moments.",
+        "ogImage": "/assets/about-hero.svg",
+        "schemaType": "AboutPage",
+        "customSchema": ""
+      },
+      "geo": {
+        "summary": "The Royal Band is a premium live event entertainment team focused on weddings, baraat, corporate functions and private celebrations.",
+        "entities": "The Royal Band, Wedding Entertainment, Live Musicians",
+        "serviceAreas": "India, Delhi NCR, Destination Weddings",
+        "targetQuestions": "Who is The Royal Band?\nWhat kind of events does The Royal Band perform at?",
+        "llmsSummary": "About The Royal Band: a premium live musicians team for weddings and events."
+      },
+      "sections": [
+        {
+          "id": "story",
+          "type": "split",
+          "eyebrow": "WHY ROYAL",
+          "heading": "Traditional Energy, Modern Presentation",
+          "body": "We combine the excitement of a classic celebration band with the discipline of a modern event production team. The result is energetic, elegant and effortless for the host.",
+          "image": "/assets/band-stage.svg",
+          "items": [
+            "Professional musicians",
+            "Coordinated presentation",
+            "Event-timed performance",
+            "Travel-ready team"
+          ]
+        },
+        {
+          "id": "values",
+          "type": "cards",
+          "eyebrow": "OUR VALUES",
+          "heading": "What We Bring to Every Event",
+          "body": "",
+          "items": [
+            "Energy|Every performance must lift the atmosphere.",
+            "Precision|We coordinate timing, cues and movement with the event team.",
+            "Presentation|Uniforms, staging and visual impact matter as much as sound.",
+            "Hospitality|We keep the experience smooth for hosts, planners and guests."
+          ]
+        },
+        {
+          "id": "cta",
+          "type": "cta",
+          "heading": "Planning a Celebration?",
+          "body": "Tell us what you’re planning and we’ll suggest the right format.",
+          "items": [
+            "Get a Recommendation",
+            "WhatsApp Us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "services-page",
+      "name": "Services",
+      "slug": "/services",
+      "status": "published",
+      "hero": {
+        "eyebrow": "SERVICES",
+        "title": "Live Entertainment for Every Celebration",
+        "subtitle": "Flexible band formats for weddings, processions, brands and private events.",
+        "image": "/assets/services-hero.svg",
+        "primaryCta": "Get Pricing",
+        "secondaryCta": "View Gallery"
+      },
+      "seo": {
+        "title": "Royal Band Services | Weddings, Baraat & Corporate Events",
+        "description": "Explore wedding band, baraat, corporate and private event performance services from The Royal Band.",
+        "keywords": "wedding band services, baraat band, corporate live band, event musicians",
+        "canonical": "/services",
+        "robotsIndex": true,
+        "robotsFollow": true,
+        "ogTitle": "Royal Band Services",
+        "ogDescription": "Live band formats for weddings and events.",
+        "ogImage": "/assets/services-hero.svg",
+        "schemaType": "Service",
+        "customSchema": ""
+      },
+      "geo": {
+        "summary": "The Royal Band offers live wedding band, baraat, corporate event and private celebration services.",
+        "entities": "Wedding Band Service, Baraat Band, Corporate Event Band, Private Party Band",
+        "serviceAreas": "Delhi NCR, North India, Destination Weddings",
+        "targetQuestions": "What wedding band packages are available?\nCan I book a band for a corporate launch?",
+        "llmsSummary": "Services include wedding band, baraat performance, corporate entertainment and private celebrations."
+      },
+      "sections": [
+        {
+          "id": "servicecards",
+          "type": "cards",
+          "eyebrow": "CHOOSE YOUR FORMAT",
+          "heading": "Four Ways to Make It Royal",
+          "body": "Packages can be adapted to venue size, event flow and performance duration.",
+          "items": [
+            "Wedding Band|Elegant brass, percussion and ceremonial performance for wedding functions.",
+            "Baraat Procession|High-energy moving performance designed for groom entries and processions.",
+            "Corporate Performance|Professional stage-ready entertainment for brands and businesses.",
+            "Private Events|Flexible live music setups for birthdays, anniversaries and premium parties.",
+            "Destination Events|Travel-ready team and advance coordination for outstation celebrations.",
+            "Custom Production|Special entries, synchronized cues and bespoke performance concepts."
+          ]
+        },
+        {
+          "id": "process",
+          "type": "timeline",
+          "eyebrow": "HOW IT WORKS",
+          "heading": "Simple Planning. Powerful Performance.",
+          "items": [
+            "1|Share your event date, venue and format.",
+            "2|We suggest the right lineup and duration.",
+            "3|We coordinate cues, entry timing and logistics.",
+            "4|Our team performs and manages the live flow."
+          ]
+        },
+        {
+          "id": "cta",
+          "type": "cta",
+          "heading": "Need a Custom Package?",
+          "body": "Send your event details and we’ll build a recommendation around your venue and schedule.",
+          "items": [
+            "Request Proposal",
+            "Call Now"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "performances",
+      "name": "Performances",
+      "slug": "/performances",
+      "status": "published",
+      "hero": {
+        "eyebrow": "PERFORMANCES",
+        "title": "See the Royal Energy in Motion",
+        "subtitle": "From intimate entries to full-scale processions, every performance is designed to command attention.",
+        "image": "/assets/performance-hero.svg",
+        "primaryCta": "Book a Performance",
+        "secondaryCta": "See Packages"
+      },
+      "seo": {
+        "title": "Royal Band Performances | Wedding & Baraat Live Music",
+        "description": "Discover live Royal Band performance formats for wedding entries, baraat, stage moments and premium celebrations.",
+        "keywords": "royal band performance, wedding live music, baraat performance",
+        "canonical": "/performances",
+        "robotsIndex": true,
+        "robotsFollow": true,
+        "ogTitle": "Royal Band Performances",
+        "ogDescription": "See premium live wedding and event performance formats.",
+        "ogImage": "/assets/performance-hero.svg",
+        "schemaType": "CollectionPage",
+        "customSchema": ""
+      },
+      "geo": {
+        "summary": "Royal Band performance formats include processions, wedding entries, stage performances and corporate event sets.",
+        "entities": "Baraat Performance, Wedding Entry, Brass Band Performance, Live Percussion",
+        "serviceAreas": "India",
+        "targetQuestions": "What does a premium baraat band performance include?",
+        "llmsSummary": "Performance formats from The Royal Band include baraat, wedding entry, stage and corporate sets."
+      },
+      "sections": [
+        {
+          "id": "formats",
+          "type": "cards",
+          "eyebrow": "SIGNATURE FORMATS",
+          "heading": "Choose the Moment You Want to Elevate",
+          "body": "",
+          "items": [
+            "The Grand Arrival|A powerful brass and percussion entrance for groom or couple arrival.",
+            "The Procession|A mobile high-energy format for baraat and celebration movement.",
+            "The Stage Set|A focused live performance for receptions, galas and corporate events.",
+            "The Celebration Mix|A flexible combination of entries, processions and stage moments."
+          ]
+        },
+        {
+          "id": "gallery",
+          "type": "gallery",
+          "eyebrow": "ON STAGE & ON THE MOVE",
+          "heading": "Performance Highlights",
+          "items": [
+            "/assets/gallery-2.svg",
+            "/assets/gallery-4.svg",
+            "/assets/gallery-6.svg",
+            "/assets/gallery-1.svg"
+          ]
+        },
+        {
+          "id": "cta",
+          "type": "cta",
+          "heading": "Tell Us Your Big Moment",
+          "body": "We’ll suggest the right performance format and lineup.",
+          "items": [
+            "Plan My Performance",
+            "WhatsApp Us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gallery-page",
+      "name": "Gallery",
+      "slug": "/gallery",
+      "status": "published",
+      "hero": {
+        "eyebrow": "GALLERY",
+        "title": "Celebrations, Captured",
+        "subtitle": "A glimpse of the movement, details and energy behind The Royal Band experience.",
+        "image": "/assets/gallery-hero.svg",
+        "primaryCta": "Book Your Date",
+        "secondaryCta": "Instagram"
+      },
+      "seo": {
+        "title": "The Royal Band Gallery | Wedding & Event Performances",
+        "description": "Browse Royal Band wedding, baraat and event performance highlights.",
+        "keywords": "royal band gallery, wedding band photos, baraat band images",
+        "canonical": "/gallery",
+        "robotsIndex": true,
+        "robotsFollow": true,
+        "ogTitle": "The Royal Band Gallery",
+        "ogDescription": "Wedding and event performance highlights.",
+        "ogImage": "/assets/gallery-hero.svg",
+        "schemaType": "ImageGallery",
+        "customSchema": ""
+      },
+      "geo": {
+        "summary": "Gallery of The Royal Band wedding and event performances.",
+        "entities": "The Royal Band Gallery, Wedding Band Photos, Event Performance",
+        "serviceAreas": "India",
+        "targetQuestions": "Can I see photos of The Royal Band performances?",
+        "llmsSummary": "Gallery showing The Royal Band at weddings and events."
+      },
+      "sections": [
+        {
+          "id": "grid",
+          "type": "gallery",
+          "eyebrow": "MOMENTS",
+          "heading": "Live. Loud. Luxurious.",
+          "items": [
+            "/assets/gallery-1.svg",
+            "/assets/gallery-2.svg",
+            "/assets/gallery-3.svg",
+            "/assets/gallery-4.svg",
+            "/assets/gallery-5.svg",
+            "/assets/gallery-6.svg",
+            "/assets/about-hero.svg",
+            "/assets/band-stage.svg"
+          ]
+        },
+        {
+          "id": "cta",
+          "type": "cta",
+          "heading": "Want Your Event to Look Like This?",
+          "body": "Check availability for your date.",
+          "items": [
+            "Check Date",
+            "Call Now"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "slug": "/contact",
+      "status": "published",
+      "hero": {
+        "eyebrow": "CONTACT",
+        "title": "Let’s Plan Your Royal Moment",
+        "subtitle": "Share your date, city and event type. We’ll get back with the right performance format.",
+        "image": "/assets/contact-hero.svg",
+        "primaryCta": "Send Enquiry",
+        "secondaryCta": "WhatsApp"
+      },
+      "seo": {
+        "title": "Contact The Royal Band | Wedding & Event Booking",
+        "description": "Contact The Royal Band for wedding, baraat, corporate and private event bookings.",
+        "keywords": "book royal band, wedding band contact, event band booking",
+        "canonical": "/contact",
+        "robotsIndex": true,
+        "robotsFollow": true,
+        "ogTitle": "Contact The Royal Band",
+        "ogDescription": "Check availability and request pricing.",
+        "ogImage": "/assets/contact-hero.svg",
+        "schemaType": "ContactPage",
+        "customSchema": ""
+      },
+      "geo": {
+        "summary": "Contact The Royal Band to book live wedding and event entertainment.",
+        "entities": "The Royal Band Contact, Wedding Band Booking",
+        "serviceAreas": "Delhi NCR, India, Destination Weddings",
+        "targetQuestions": "How can I book The Royal Band?\nIs The Royal Band available for my wedding date?",
+        "llmsSummary": "Contact page for booking The Royal Band for weddings and events."
+      },
+      "sections": [
+        {
+          "id": "contactinfo",
+          "type": "contact",
+          "eyebrow": "BOOKINGS",
+          "heading": "Tell Us About Your Event",
+          "body": "Our team will respond with availability and the most suitable performance format.",
+          "items": []
+        },
+        {
+          "id": "faq",
+          "type": "faq",
+          "eyebrow": "BEFORE YOU BOOK",
+          "heading": "Booking Questions",
+          "items": [
+            "What information should I share?|Event date, city, venue, event type and approximate performance timing are enough to start.",
+            "Do you provide a quote on WhatsApp?|Yes. Once we have the event details, we can share availability and package guidance."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[Unit]
+Description=Royal Band Website CMS
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/var/www/royal-band
+Environment=NODE_ENV=production
+ExecStart=/usr/bin/node /var/www/royal-band/server.js
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

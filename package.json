@@ -1,0 +1,11 @@
+{
+  "name": "royal-band-cms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium Royal Band events website with built-in CMS, SEO and GEO controls",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js"
+  },
+  "engines": {"node": ">=18"}
+}
